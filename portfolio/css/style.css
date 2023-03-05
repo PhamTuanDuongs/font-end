@@ -159,3 +159,25 @@
     word-spacing: 10px;
     font-size:1.2em;
 }
+.call-to-action-container{
+    width: 50rem;
+    height: 20rem;
+    margin: auto;
+    margin-top: 10rem;
+    text-align: center;
+}
+.call-title{
+    color:#1e836c;
+    margin-top: 3rem;
+    font-size: 2rem;
+    
+}
+.call-sub-title{
+    color:#45b29a;
+    font-size: 1.5rem;
+    margin: 2rem 0;
+}
+.call-information{
+    width: 40rem;
+    margin: auto
+}
